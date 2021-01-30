@@ -18,3 +18,5 @@ This directory mainly contains the composer.json file along with the docker-comp
 The above command will run an composer container using the docker-compose file in the same folder and execute the update command.
 
 https://hub.docker.com/_/phpmyadmin
+
+Need to redirect url https://stackoverflow.com/questions/51563048/yii2-how-to-send-form-request-to-external-url
